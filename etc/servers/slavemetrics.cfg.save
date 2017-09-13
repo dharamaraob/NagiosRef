@@ -1,0 +1,16 @@
+define service {
+      host_name                       ip-10-0-1-136.us-west-2.compute.internal
+      service_description             Free Mem
+      check_command                   Mesos_Slave_Metrics! -H 10.0.1.136 -P 5051 -m system/mem_free_bytes
+      max_check_attempts              2
+      check_interval                  1
+      retry_interval                  1
+      check_period                    24x7
+      check_freshness                 1
+      contact_groups                  admins
+      notification_interval           2
+      notification_period             24x7
+      notifications_enabled           1
+      register                        1
+ }
+

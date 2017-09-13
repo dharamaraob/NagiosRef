@@ -1,0 +1,918 @@
+[1501113600] LOG ROTATION: DAILY
+[1501113600] LOG VERSION: 2.0
+[1501113600] CURRENT HOST STATE: ip-10-0-3-196.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT HOST STATE: ip-10-0-3-26.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT HOST STATE: ip-10-0-7-149.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 97479 MB (98% inode=99%):
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 84 processes with STATE = RSZDT
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 97479 MB (98% inode=99%):
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 85 processes with STATE = RSZDT
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 97479 MB (98% inode=99%):
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501113600] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 84 processes with STATE = RSZDT
+[1501113600] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1501113600] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1501113600] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.000 second response time
+[1501113600] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1501113600] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 97479 MB (98% inode=99%):
+[1501113600] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1501113600] CURRENT SERVICE STATE: localhost;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501113600] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 86 processes with STATE = RSZDT
+[1501115874] Auto-save of retention data completed successfully.
+[1501116408] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501116408] wproc: NOTIFY job 228 from worker Core Worker 20010 is a non-check helper but exited with return code 127
+[1501116408] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501116408] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1501116408] wproc:   stderr line 01: /bin/sh: 1: /usr/bin/sendmail: not found
+[1501116408] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1501119474] Auto-save of retention data completed successfully.
+[1501120307] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501120307] wproc: NOTIFY job 307 from worker Core Worker 20015 is a non-check helper but exited with return code 127
+[1501120307] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501120307] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1501120307] wproc:   stderr line 01: /bin/sh: 1: /usr/bin/sendmail: not found
+[1501120307] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1501121325] Caught SIGTERM, shutting down...
+[1501121325] Successfully shutdown... (PID=20008)
+[1501121325] Event broker module 'NERD' deinitialized successfully.
+[1501121325] Nagios 4.2.0 starting... (PID=28453)
+[1501121325] Local time is Thu Jul 27 02:08:45 UTC 2017
+[1501121325] LOG VERSION: 2.0
+[1501121325] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501121325] qh: core query handler registered
+[1501121325] nerd: Channel hostchecks registered successfully
+[1501121325] nerd: Channel servicechecks registered successfully
+[1501121325] nerd: Channel opathchecks registered successfully
+[1501121325] nerd: Fully initialized and ready to rock!
+[1501121325] wproc: Successfully registered manager as @wproc with query handler
+[1501121325] wproc: Registry request: name=Core Worker 28455;pid=28455
+[1501121325] wproc: Registry request: name=Core Worker 28458;pid=28458
+[1501121325] wproc: Registry request: name=Core Worker 28456;pid=28456
+[1501121325] wproc: Registry request: name=Core Worker 28459;pid=28459
+[1501121325] wproc: Registry request: name=Core Worker 28463;pid=28463
+[1501121325] wproc: Registry request: name=Core Worker 28464;pid=28464
+[1501121325] wproc: Registry request: name=Core Worker 28457;pid=28457
+[1501121325] wproc: Registry request: name=Core Worker 28461;pid=28461
+[1501121325] wproc: Registry request: name=Core Worker 28465;pid=28465
+[1501121325] wproc: Registry request: name=Core Worker 28466;pid=28466
+[1501121325] wproc: Registry request: name=Core Worker 28462;pid=28462
+[1501121325] wproc: Registry request: name=Core Worker 28467;pid=28467
+[1501121325] Successfully launched command file worker with pid 28468
+[1501121596] Caught SIGTERM, shutting down...
+[1501121596] Successfully shutdown... (PID=28453)
+[1501121596] Event broker module 'NERD' deinitialized successfully.
+[1501121596] Nagios 4.2.0 starting... (PID=28809)
+[1501121596] Local time is Thu Jul 27 02:13:16 UTC 2017
+[1501121596] LOG VERSION: 2.0
+[1501121596] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501121596] qh: core query handler registered
+[1501121596] nerd: Channel hostchecks registered successfully
+[1501121596] nerd: Channel servicechecks registered successfully
+[1501121596] nerd: Channel opathchecks registered successfully
+[1501121596] nerd: Fully initialized and ready to rock!
+[1501121596] wproc: Successfully registered manager as @wproc with query handler
+[1501121596] wproc: Registry request: name=Core Worker 28811;pid=28811
+[1501121596] wproc: Registry request: name=Core Worker 28812;pid=28812
+[1501121596] wproc: Registry request: name=Core Worker 28820;pid=28820
+[1501121596] wproc: Registry request: name=Core Worker 28823;pid=28823
+[1501121596] wproc: Registry request: name=Core Worker 28816;pid=28816
+[1501121596] wproc: Registry request: name=Core Worker 28821;pid=28821
+[1501121596] wproc: Registry request: name=Core Worker 28813;pid=28813
+[1501121596] wproc: Registry request: name=Core Worker 28817;pid=28817
+[1501121596] wproc: Registry request: name=Core Worker 28814;pid=28814
+[1501121596] wproc: Registry request: name=Core Worker 28818;pid=28818
+[1501121596] wproc: Registry request: name=Core Worker 28815;pid=28815
+[1501121596] wproc: Registry request: name=Core Worker 28819;pid=28819
+[1501121596] Successfully launched command file worker with pid 28824
+[1501122884] Caught SIGTERM, shutting down...
+[1501122884] Successfully shutdown... (PID=28809)
+[1501122884] Event broker module 'NERD' deinitialized successfully.
+[1501122885] Nagios 4.2.0 starting... (PID=30229)
+[1501122885] Local time is Thu Jul 27 02:34:45 UTC 2017
+[1501122885] LOG VERSION: 2.0
+[1501122885] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501122885] qh: core query handler registered
+[1501122885] nerd: Channel hostchecks registered successfully
+[1501122885] nerd: Channel servicechecks registered successfully
+[1501122885] nerd: Channel opathchecks registered successfully
+[1501122885] nerd: Fully initialized and ready to rock!
+[1501122885] wproc: Successfully registered manager as @wproc with query handler
+[1501122885] wproc: Registry request: name=Core Worker 30231;pid=30231
+[1501122885] wproc: Registry request: name=Core Worker 30232;pid=30232
+[1501122885] wproc: Registry request: name=Core Worker 30233;pid=30233
+[1501122885] wproc: Registry request: name=Core Worker 30234;pid=30234
+[1501122885] wproc: Registry request: name=Core Worker 30235;pid=30235
+[1501122885] wproc: Registry request: name=Core Worker 30236;pid=30236
+[1501122885] wproc: Registry request: name=Core Worker 30237;pid=30237
+[1501122885] wproc: Registry request: name=Core Worker 30238;pid=30238
+[1501122885] wproc: Registry request: name=Core Worker 30241;pid=30241
+[1501122885] wproc: Registry request: name=Core Worker 30240;pid=30240
+[1501122885] wproc: Registry request: name=Core Worker 30243;pid=30243
+[1501122885] wproc: Registry request: name=Core Worker 30242;pid=30242
+[1501122885] Successfully launched command file worker with pid 30244
+[1501122943] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;ip-10-0-3-196.us-west-2.compute.internal;Check SSH;0;Nagios Admin;please check
+[1501122943] SERVICE NOTIFICATION: nagiosadmin;ip-10-0-3-196.us-west-2.compute.internal;Check SSH;CUSTOM (CRITICAL);notify-service-by-email;CRITICAL - Socket timeout;Nagios Admin;please check
+[1501122943] wproc: NOTIFY job 1 from worker Core Worker 30232 is a non-check helper but exited with return code 127
+[1501122943] wproc:   host=ip-10-0-3-196.us-west-2.compute.internal; service=Check SSH; contact=nagiosadmin
+[1501122943] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1501122943] wproc:   stderr line 01: /bin/sh: 1: /usr/bin/sendmail: not found
+[1501122943] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1501123907] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501123907] wproc: NOTIFY job 20 from worker Core Worker 30240 is a non-check helper but exited with return code 127
+[1501123907] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501123907] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1501123907] wproc:   stderr line 01: /bin/sh: 1: /usr/bin/sendmail: not found
+[1501123907] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1501124959] Caught SIGTERM, shutting down...
+[1501124959] Successfully shutdown... (PID=30229)
+[1501124959] Event broker module 'NERD' deinitialized successfully.
+[1501124960] Nagios 4.2.0 starting... (PID=31399)
+[1501124960] Local time is Thu Jul 27 03:09:20 UTC 2017
+[1501124960] LOG VERSION: 2.0
+[1501124960] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501124960] qh: core query handler registered
+[1501124960] nerd: Channel hostchecks registered successfully
+[1501124960] nerd: Channel servicechecks registered successfully
+[1501124960] nerd: Channel opathchecks registered successfully
+[1501124960] nerd: Fully initialized and ready to rock!
+[1501124960] wproc: Successfully registered manager as @wproc with query handler
+[1501124960] wproc: Registry request: name=Core Worker 31404;pid=31404
+[1501124960] wproc: Registry request: name=Core Worker 31402;pid=31402
+[1501124960] wproc: Registry request: name=Core Worker 31401;pid=31401
+[1501124960] wproc: Registry request: name=Core Worker 31405;pid=31405
+[1501124960] wproc: Registry request: name=Core Worker 31412;pid=31412
+[1501124960] wproc: Registry request: name=Core Worker 31406;pid=31406
+[1501124960] wproc: Registry request: name=Core Worker 31403;pid=31403
+[1501124960] wproc: Registry request: name=Core Worker 31413;pid=31413
+[1501124960] wproc: Registry request: name=Core Worker 31411;pid=31411
+[1501124960] wproc: Registry request: name=Core Worker 31408;pid=31408
+[1501124960] wproc: Registry request: name=Core Worker 31410;pid=31410
+[1501124960] wproc: Registry request: name=Core Worker 31409;pid=31409
+[1501124960] Successfully launched command file worker with pid 31414
+[1501125856] Caught SIGTERM, shutting down...
+[1501125856] Successfully shutdown... (PID=31399)
+[1501125856] Event broker module 'NERD' deinitialized successfully.
+[1501125857] Nagios 4.2.0 starting... (PID=31932)
+[1501125857] Local time is Thu Jul 27 03:24:17 UTC 2017
+[1501125857] LOG VERSION: 2.0
+[1501125857] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501125857] qh: core query handler registered
+[1501125857] nerd: Channel hostchecks registered successfully
+[1501125857] nerd: Channel servicechecks registered successfully
+[1501125857] nerd: Channel opathchecks registered successfully
+[1501125857] nerd: Fully initialized and ready to rock!
+[1501125857] wproc: Successfully registered manager as @wproc with query handler
+[1501125857] wproc: Registry request: name=Core Worker 31934;pid=31934
+[1501125857] wproc: Registry request: name=Core Worker 31935;pid=31935
+[1501125857] wproc: Registry request: name=Core Worker 31936;pid=31936
+[1501125857] wproc: Registry request: name=Core Worker 31937;pid=31937
+[1501125857] wproc: Registry request: name=Core Worker 31938;pid=31938
+[1501125857] wproc: Registry request: name=Core Worker 31945;pid=31945
+[1501125857] wproc: Registry request: name=Core Worker 31939;pid=31939
+[1501125857] wproc: Registry request: name=Core Worker 31940;pid=31940
+[1501125857] wproc: Registry request: name=Core Worker 31946;pid=31946
+[1501125857] wproc: Registry request: name=Core Worker 31941;pid=31941
+[1501125857] wproc: Registry request: name=Core Worker 31942;pid=31942
+[1501125857] wproc: Registry request: name=Core Worker 31943;pid=31943
+[1501125857] Successfully launched command file worker with pid 31947
+[1501127551] Caught SIGTERM, shutting down...
+[1501127551] Successfully shutdown... (PID=31932)
+[1501127551] Event broker module 'NERD' deinitialized successfully.
+[1501127551] Nagios 4.2.0 starting... (PID=494)
+[1501127551] Local time is Thu Jul 27 03:52:31 UTC 2017
+[1501127551] LOG VERSION: 2.0
+[1501127551] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501127551] qh: core query handler registered
+[1501127551] nerd: Channel hostchecks registered successfully
+[1501127551] nerd: Channel servicechecks registered successfully
+[1501127551] nerd: Channel opathchecks registered successfully
+[1501127551] nerd: Fully initialized and ready to rock!
+[1501127551] wproc: Successfully registered manager as @wproc with query handler
+[1501127551] wproc: Registry request: name=Core Worker 496;pid=496
+[1501127551] wproc: Registry request: name=Core Worker 497;pid=497
+[1501127551] wproc: Registry request: name=Core Worker 498;pid=498
+[1501127551] wproc: Registry request: name=Core Worker 507;pid=507
+[1501127551] wproc: Registry request: name=Core Worker 499;pid=499
+[1501127551] wproc: Registry request: name=Core Worker 508;pid=508
+[1501127551] wproc: Registry request: name=Core Worker 505;pid=505
+[1501127551] wproc: Registry request: name=Core Worker 500;pid=500
+[1501127551] wproc: Registry request: name=Core Worker 509;pid=509
+[1501127551] wproc: Registry request: name=Core Worker 504;pid=504
+[1501127551] wproc: Registry request: name=Core Worker 501;pid=501
+[1501127551] wproc: Registry request: name=Core Worker 503;pid=503
+[1501127551] Successfully launched command file worker with pid 510
+[1501127588] Caught SIGTERM, shutting down...
+[1501127588] Successfully shutdown... (PID=494)
+[1501127588] Event broker module 'NERD' deinitialized successfully.
+[1501127589] Nagios 4.2.0 starting... (PID=564)
+[1501127589] Local time is Thu Jul 27 03:53:09 UTC 2017
+[1501127589] LOG VERSION: 2.0
+[1501127589] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501127589] qh: core query handler registered
+[1501127589] nerd: Channel hostchecks registered successfully
+[1501127589] nerd: Channel servicechecks registered successfully
+[1501127589] nerd: Channel opathchecks registered successfully
+[1501127589] nerd: Fully initialized and ready to rock!
+[1501127589] wproc: Successfully registered manager as @wproc with query handler
+[1501127589] wproc: Registry request: name=Core Worker 567;pid=567
+[1501127589] wproc: Registry request: name=Core Worker 568;pid=568
+[1501127589] wproc: Registry request: name=Core Worker 566;pid=566
+[1501127589] wproc: Registry request: name=Core Worker 569;pid=569
+[1501127589] wproc: Registry request: name=Core Worker 573;pid=573
+[1501127589] wproc: Registry request: name=Core Worker 570;pid=570
+[1501127589] wproc: Registry request: name=Core Worker 571;pid=571
+[1501127589] wproc: Registry request: name=Core Worker 572;pid=572
+[1501127589] wproc: Registry request: name=Core Worker 575;pid=575
+[1501127589] wproc: Registry request: name=Core Worker 578;pid=578
+[1501127589] wproc: Registry request: name=Core Worker 576;pid=576
+[1501127589] wproc: Registry request: name=Core Worker 577;pid=577
+[1501127589] Successfully launched command file worker with pid 579
+[1501127806] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501129338] Caught SIGTERM, shutting down...
+[1501129338] Successfully shutdown... (PID=564)
+[1501129338] Event broker module 'NERD' deinitialized successfully.
+[1501129338] Nagios 4.2.0 starting... (PID=2147)
+[1501129338] Local time is Thu Jul 27 04:22:18 UTC 2017
+[1501129338] LOG VERSION: 2.0
+[1501129338] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501129338] qh: core query handler registered
+[1501129338] nerd: Channel hostchecks registered successfully
+[1501129338] nerd: Channel servicechecks registered successfully
+[1501129338] nerd: Channel opathchecks registered successfully
+[1501129338] nerd: Fully initialized and ready to rock!
+[1501129338] wproc: Successfully registered manager as @wproc with query handler
+[1501129338] wproc: Registry request: name=Core Worker 2152;pid=2152
+[1501129338] wproc: Registry request: name=Core Worker 2149;pid=2149
+[1501129338] wproc: Registry request: name=Core Worker 2151;pid=2151
+[1501129338] wproc: Registry request: name=Core Worker 2150;pid=2150
+[1501129338] wproc: Registry request: name=Core Worker 2153;pid=2153
+[1501129338] wproc: Registry request: name=Core Worker 2159;pid=2159
+[1501129338] wproc: Registry request: name=Core Worker 2154;pid=2154
+[1501129338] wproc: Registry request: name=Core Worker 2160;pid=2160
+[1501129338] wproc: Registry request: name=Core Worker 2155;pid=2155
+[1501129338] wproc: Registry request: name=Core Worker 2158;pid=2158
+[1501129338] wproc: Registry request: name=Core Worker 2156;pid=2156
+[1501129338] wproc: Registry request: name=Core Worker 2157;pid=2157
+[1501129338] Successfully launched command file worker with pid 2162
+[1501131705] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501132937] Auto-save of retention data completed successfully.
+[1501135305] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501136537] Auto-save of retention data completed successfully.
+[1501139204] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501140137] Auto-save of retention data completed successfully.
+[1501142804] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501143737] Auto-save of retention data completed successfully.
+[1501146004] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-26.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501146008] HOST NOTIFICATION: nagiosadmin;ip-10-0-7-149.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501146025] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-196.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501146703] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501147337] Auto-save of retention data completed successfully.
+[1501150602] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501150937] Auto-save of retention data completed successfully.
+[1501153252] HOST NOTIFICATION: nagiosadmin;ip-10-0-7-149.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501153253] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-196.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501153262] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-26.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501154202] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501154537] Auto-save of retention data completed successfully.
+[1501158101] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501158137] Auto-save of retention data completed successfully.
+[1501159380] wproc: Core Worker 2152: job 576 (pid=15672) timed out. Killing it
+[1501159380] wproc: CHECK job 576 from worker Core Worker 2152 timed out after 30.03s
+[1501159380] wproc:   host=ip-10-0-3-26.us-west-2.compute.internal; service=(null);
+[1501159380] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501159380] Warning: Check of host 'ip-10-0-3-26.us-west-2.compute.internal' timed out after 30.03 seconds
+[1501159380] wproc: Core Worker 2152: job 576 (pid=15672): Dormant child reaped
+[1501160498] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-196.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501160522] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-26.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501160523] HOST NOTIFICATION: nagiosadmin;ip-10-0-7-149.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501161737] Auto-save of retention data completed successfully.
+[1501162000] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501165337] Auto-save of retention data completed successfully.
+[1501165600] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501167739] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-196.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501167768] HOST NOTIFICATION: nagiosadmin;ip-10-0-7-149.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501167778] HOST NOTIFICATION: nagiosadmin;ip-10-0-3-26.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501168937] Auto-save of retention data completed successfully.
+[1501169499] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501172537] Auto-save of retention data completed successfully.
+[1501173398] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501173556] Caught SIGTERM, shutting down...
+[1501173556] Successfully shutdown... (PID=2147)
+[1501173556] Event broker module 'NERD' deinitialized successfully.
+[1501173556] Nagios 4.2.0 starting... (PID=2102)
+[1501173556] Local time is Thu Jul 27 16:39:16 UTC 2017
+[1501173556] LOG VERSION: 2.0
+[1501173556] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501173556] qh: core query handler registered
+[1501173556] nerd: Channel hostchecks registered successfully
+[1501173556] nerd: Channel servicechecks registered successfully
+[1501173556] nerd: Channel opathchecks registered successfully
+[1501173556] nerd: Fully initialized and ready to rock!
+[1501173556] wproc: Successfully registered manager as @wproc with query handler
+[1501173556] wproc: Registry request: name=Core Worker 2104;pid=2104
+[1501173556] wproc: Registry request: name=Core Worker 2107;pid=2107
+[1501173556] wproc: Registry request: name=Core Worker 2105;pid=2105
+[1501173556] wproc: Registry request: name=Core Worker 2108;pid=2108
+[1501173556] wproc: Registry request: name=Core Worker 2109;pid=2109
+[1501173556] wproc: Registry request: name=Core Worker 2115;pid=2115
+[1501173556] wproc: Registry request: name=Core Worker 2110;pid=2110
+[1501173556] wproc: Registry request: name=Core Worker 2112;pid=2112
+[1501173556] wproc: Registry request: name=Core Worker 2106;pid=2106
+[1501173556] wproc: Registry request: name=Core Worker 2116;pid=2116
+[1501173556] wproc: Registry request: name=Core Worker 2113;pid=2113
+[1501173556] wproc: Registry request: name=Core Worker 2111;pid=2111
+[1501173556] Successfully launched command file worker with pid 2117
+[1501173586] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501173593] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501173623] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501173668] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501173684] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501173713] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501173714] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501173760] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501173803] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501173804] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501173834] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501173880] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501173923] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501173954] HOST ALERT: ip-10-0-0-123.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501173954] HOST NOTIFICATION: nagiosadmin;ip-10-0-0-123.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501174002] Caught SIGTERM, shutting down...
+[1501174002] Successfully shutdown... (PID=2102)
+[1501174002] Event broker module 'NERD' deinitialized successfully.
+[1501174002] Nagios 4.2.0 starting... (PID=2494)
+[1501174002] Local time is Thu Jul 27 16:46:42 UTC 2017
+[1501174002] LOG VERSION: 2.0
+[1501174002] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501174002] qh: core query handler registered
+[1501174002] nerd: Channel hostchecks registered successfully
+[1501174002] nerd: Channel servicechecks registered successfully
+[1501174002] nerd: Channel opathchecks registered successfully
+[1501174002] nerd: Fully initialized and ready to rock!
+[1501174002] wproc: Successfully registered manager as @wproc with query handler
+[1501174002] wproc: Registry request: name=Core Worker 2496;pid=2496
+[1501174002] wproc: Registry request: name=Core Worker 2498;pid=2498
+[1501174002] wproc: Registry request: name=Core Worker 2497;pid=2497
+[1501174002] wproc: Registry request: name=Core Worker 2500;pid=2500
+[1501174002] wproc: Registry request: name=Core Worker 2499;pid=2499
+[1501174002] wproc: Registry request: name=Core Worker 2508;pid=2508
+[1501174002] wproc: Registry request: name=Core Worker 2506;pid=2506
+[1501174002] wproc: Registry request: name=Core Worker 2505;pid=2505
+[1501174002] wproc: Registry request: name=Core Worker 2507;pid=2507
+[1501174002] wproc: Registry request: name=Core Worker 2501;pid=2501
+[1501174002] wproc: Registry request: name=Core Worker 2503;pid=2503
+[1501174002] wproc: Registry request: name=Core Worker 2502;pid=2502
+[1501174002] Successfully launched command file worker with pid 2509
+[1501174032] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501174043] SERVICE ALERT: ip-10-0-0-235.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501174073] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501174163] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501174163] SERVICE ALERT: ip-10-0-0-235.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501174193] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501174283] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501174313] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501174403] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501174433] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501174523] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501174553] HOST ALERT: ip-10-0-0-235.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501174553] HOST NOTIFICATION: nagiosadmin;ip-10-0-0-235.us-west-2.compute.internal;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1501175520] wproc: Core Worker 2499: job 41 (pid=3407) timed out. Killing it
+[1501175521] wproc: CHECK job 41 from worker Core Worker 2499 timed out after 31.01s
+[1501175521] wproc:   host=ip-10-0-7-149.us-west-2.compute.internal; service=(null);
+[1501175521] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501175521] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501175521] Warning: Check of host 'ip-10-0-7-149.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501175521] wproc: Core Worker 2499: job 41 (pid=3407): Dormant child reaped
+[1501175879] wproc: Core Worker 2508: job 51 (pid=3629) timed out. Killing it
+[1501175880] wproc: CHECK job 51 from worker Core Worker 2508 timed out after 31.01s
+[1501175880] wproc:   host=ip-10-0-7-149.us-west-2.compute.internal; service=(null);
+[1501175880] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501175880] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501175880] Warning: Check of host 'ip-10-0-7-149.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501175880] wproc: Core Worker 2508: job 51 (pid=3629): Dormant child reaped
+[1501176713] wproc: Core Worker 2502: job 73 (pid=4094) timed out. Killing it
+[1501176713] wproc: CHECK job 73 from worker Core Worker 2502 timed out after 30.01s
+[1501176713] wproc:   host=ip-10-0-0-123.us-west-2.compute.internal; service=(null);
+[1501176713] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501176713] Warning: Check of host 'ip-10-0-0-123.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501176713] wproc: Core Worker 2502: job 73 (pid=4094): Dormant child reaped
+[1501177297] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501177601] Auto-save of retention data completed successfully.
+[1501177881] wproc: Core Worker 2496: job 106 (pid=4811) timed out. Killing it
+[1501177881] wproc: CHECK job 106 from worker Core Worker 2496 timed out after 30.03s
+[1501177881] wproc:   host=ip-10-0-0-123.us-west-2.compute.internal; service=(null);
+[1501177881] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501177881] Warning: Check of host 'ip-10-0-0-123.us-west-2.compute.internal' timed out after 30.03 seconds
+[1501177881] wproc: Core Worker 2496: job 106 (pid=4811): Dormant child reaped
+[1501178039] wproc: Core Worker 2501: job 110 (pid=4906) timed out. Killing it
+[1501178040] wproc: CHECK job 110 from worker Core Worker 2501 timed out after 31.00s
+[1501178040] wproc:   host=ip-10-0-7-149.us-west-2.compute.internal; service=(null);
+[1501178040] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501178040] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501178040] Warning: Check of host 'ip-10-0-7-149.us-west-2.compute.internal' timed out after 31.00 seconds
+[1501178040] wproc: Core Worker 2501: job 110 (pid=4906): Dormant child reaped
+[1501179548] Caught SIGTERM, shutting down...
+[1501179548] Successfully shutdown... (PID=2494)
+[1501179548] Event broker module 'NERD' deinitialized successfully.
+[1501179549] Nagios 4.2.0 starting... (PID=6011)
+[1501179549] Local time is Thu Jul 27 18:19:09 UTC 2017
+[1501179549] LOG VERSION: 2.0
+[1501179549] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501179549] qh: core query handler registered
+[1501179549] nerd: Channel hostchecks registered successfully
+[1501179549] nerd: Channel servicechecks registered successfully
+[1501179549] nerd: Channel opathchecks registered successfully
+[1501179549] nerd: Fully initialized and ready to rock!
+[1501179549] wproc: Successfully registered manager as @wproc with query handler
+[1501179549] wproc: Registry request: name=Core Worker 6013;pid=6013
+[1501179549] wproc: Registry request: name=Core Worker 6014;pid=6014
+[1501179549] wproc: Registry request: name=Core Worker 6016;pid=6016
+[1501179549] wproc: Registry request: name=Core Worker 6017;pid=6017
+[1501179549] wproc: Registry request: name=Core Worker 6018;pid=6018
+[1501179549] wproc: Registry request: name=Core Worker 6019;pid=6019
+[1501179549] wproc: Registry request: name=Core Worker 6021;pid=6021
+[1501179549] wproc: Registry request: name=Core Worker 6022;pid=6022
+[1501179549] wproc: Registry request: name=Core Worker 6023;pid=6023
+[1501179549] wproc: Registry request: name=Core Worker 6024;pid=6024
+[1501179549] wproc: Registry request: name=Core Worker 6015;pid=6015
+[1501179549] wproc: Registry request: name=Core Worker 6020;pid=6020
+[1501179549] Successfully launched command file worker with pid 6026
+[1501179560] SERVICE ALERT: ip-10-0-1-165.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179561] SERVICE ALERT: ip-10-0-1-102.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179568] SERVICE ALERT: ip-10-0-5-128.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179568] SERVICE ALERT: ip-10-0-2-167.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179572] SERVICE ALERT: ip-10-0-7-103.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179579] SERVICE ALERT: ip-10-0-0-235.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179579] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179582] SERVICE ALERT: ip-10-0-3-94.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179584] SERVICE ALERT: ip-10-0-3-44.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179589] SERVICE ALERT: ip-10-0-2-46.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179590] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179591] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179595] SERVICE ALERT: ip-10-0-2-193.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179596] SERVICE ALERT: ip-10-0-2-5.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179598] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179598] wproc: Core Worker 6024: job 1 (pid=6061) timed out. Killing it
+[1501179598] wproc: CHECK job 1 from worker Core Worker 6024 timed out after 30.01s
+[1501179598] wproc:   host=ip-10-0-7-149.us-west-2.compute.internal; service=(null);
+[1501179598] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501179598] Warning: Check of host 'ip-10-0-7-149.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501179598] wproc: Core Worker 6024: job 1 (pid=6061): Dormant child reaped
+[1501179598] wproc: Core Worker 6023: job 1 (pid=6059) timed out. Killing it
+[1501179598] wproc: CHECK job 1 from worker Core Worker 6023 timed out after 30.01s
+[1501179598] wproc:   host=ip-10-0-2-167.us-west-2.compute.internal; service=(null);
+[1501179598] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501179598] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501179598] Warning: Check of host 'ip-10-0-2-167.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501179598] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1501179598] wproc: Core Worker 6023: job 1 (pid=6059): Dormant child reaped
+[1501179602] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179612] SERVICE ALERT: ip-10-0-1-47.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179612] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179614] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179616] SERVICE ALERT: ip-10-0-0-65.us-west-2.compute.internal;Check SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1501179619] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179621] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179622] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179624] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179625] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179626] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179629] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179633] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179634] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179643] SERVICE ALERT: ip-10-0-0-65.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179644] SERVICE ALERT: ip-10-0-1-102.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179645] SERVICE ALERT: ip-10-0-1-165.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179646] SERVICE ALERT: ip-10-0-1-47.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179647] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179648] SERVICE ALERT: ip-10-0-2-167.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179649] SERVICE ALERT: ip-10-0-2-193.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179650] SERVICE ALERT: ip-10-0-2-46.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179651] SERVICE ALERT: ip-10-0-2-5.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179651] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179652] SERVICE ALERT: ip-10-0-3-44.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179653] SERVICE ALERT: ip-10-0-3-94.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179653] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179655] SERVICE ALERT: ip-10-0-5-128.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179656] SERVICE ALERT: ip-10-0-7-103.us-west-2.compute.internal;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1501179673] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179674] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179675] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179676] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179678] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179679] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179680] SERVICE ALERT: ip-10-0-1-165.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179680] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179681] SERVICE ALERT: ip-10-0-1-102.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179681] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1501179682] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179685] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179686] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179688] SERVICE ALERT: ip-10-0-5-128.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179688] SERVICE ALERT: ip-10-0-2-167.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179692] SERVICE ALERT: ip-10-0-7-103.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179694] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179699] SERVICE ALERT: ip-10-0-0-235.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179702] SERVICE ALERT: ip-10-0-3-94.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179704] SERVICE ALERT: ip-10-0-3-44.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179709] SERVICE ALERT: ip-10-0-2-46.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179710] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179711] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179715] SERVICE ALERT: ip-10-0-2-193.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179716] SERVICE ALERT: ip-10-0-2-5.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179718] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179718] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179720] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179722] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179724] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179726] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179727] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179729] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1501179730] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179731] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179732] SERVICE ALERT: ip-10-0-1-47.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179736] SERVICE ALERT: ip-10-0-0-65.us-west-2.compute.internal;Check SSH;CRITICAL;HARD;2;CRITICAL - Socket timeout
+[1501179742] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179744] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179753] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179754] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179759] wproc: Core Worker 6014: job 19 (pid=6426) timed out. Killing it
+[1501179759] wproc: CHECK job 19 from worker Core Worker 6014 timed out after 30.00s
+[1501179759] wproc:   host=ip-10-0-0-123.us-west-2.compute.internal; service=(null);
+[1501179759] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501179759] Warning: Check of host 'ip-10-0-0-123.us-west-2.compute.internal' timed out after 30.00 seconds
+[1501179759] wproc: Core Worker 6014: job 19 (pid=6426): Dormant child reaped
+[1501179762] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179762] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179763] SERVICE ALERT: ip-10-0-0-65.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179764] SERVICE ALERT: ip-10-0-1-102.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179765] SERVICE ALERT: ip-10-0-1-165.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179766] SERVICE ALERT: ip-10-0-1-47.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179767] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179768] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179768] SERVICE ALERT: ip-10-0-2-167.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179769] SERVICE ALERT: ip-10-0-2-193.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179769] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179770] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+[1501179770] SERVICE ALERT: ip-10-0-2-46.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179771] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179771] SERVICE ALERT: ip-10-0-2-5.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179772] SERVICE ALERT: ip-10-0-3-44.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179773] SERVICE ALERT: ip-10-0-3-94.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179773] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179775] SERVICE ALERT: ip-10-0-5-128.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179776] SERVICE ALERT: ip-10-0-7-103.us-west-2.compute.internal;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1501179793] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179794] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179795] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179796] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179798] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179799] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179800] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179801] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+[1501179802] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179805] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179806] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179814] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179826] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179830] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179831] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179838] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179838] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179842] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179844] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179846] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179847] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179849] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+[1501179850] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179851] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179861] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179862] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179864] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179873] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179874] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179882] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179887] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179888] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179889] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179890] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+[1501179891] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179893] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179913] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179914] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179915] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179916] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179918] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179919] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179920] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179921] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+[1501179922] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179923] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179925] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179926] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179946] HOST ALERT: ip-10-0-0-65.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179950] HOST ALERT: ip-10-0-1-165.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179951] HOST ALERT: ip-10-0-1-102.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179958] HOST ALERT: ip-10-0-2-167.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179958] HOST ALERT: ip-10-0-5-128.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179962] HOST ALERT: ip-10-0-7-103.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179964] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179966] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179967] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179969] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+[1501179970] HOST ALERT: ip-10-0-3-44.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501179971] HOST ALERT: ip-10-0-3-94.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501180002] HOST ALERT: ip-10-0-1-47.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501180008] HOST ALERT: ip-10-0-2-193.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501180009] HOST ALERT: ip-10-0-2-46.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501180010] HOST ALERT: ip-10-0-2-5.us-west-2.compute.internal;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+[1501180897] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501181229] Caught SIGTERM, shutting down...
+[1501181229] Successfully shutdown... (PID=6011)
+[1501181229] Event broker module 'NERD' deinitialized successfully.
+[1501181229] Nagios 4.2.0 starting... (PID=10013)
+[1501181229] Local time is Thu Jul 27 18:47:09 UTC 2017
+[1501181229] LOG VERSION: 2.0
+[1501181229] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1501181229] qh: core query handler registered
+[1501181229] nerd: Channel hostchecks registered successfully
+[1501181229] nerd: Channel servicechecks registered successfully
+[1501181229] nerd: Channel opathchecks registered successfully
+[1501181229] nerd: Fully initialized and ready to rock!
+[1501181229] wproc: Successfully registered manager as @wproc with query handler
+[1501181229] wproc: Registry request: name=Core Worker 10016;pid=10016
+[1501181229] wproc: Registry request: name=Core Worker 10019;pid=10019
+[1501181229] wproc: Registry request: name=Core Worker 10017;pid=10017
+[1501181229] wproc: Registry request: name=Core Worker 10020;pid=10020
+[1501181229] wproc: Registry request: name=Core Worker 10015;pid=10015
+[1501181229] wproc: Registry request: name=Core Worker 10018;pid=10018
+[1501181229] wproc: Registry request: name=Core Worker 10021;pid=10021
+[1501181229] wproc: Registry request: name=Core Worker 10022;pid=10022
+[1501181229] wproc: Registry request: name=Core Worker 10023;pid=10023
+[1501181229] wproc: Registry request: name=Core Worker 10026;pid=10026
+[1501181229] wproc: Registry request: name=Core Worker 10027;pid=10027
+[1501181229] wproc: Registry request: name=Core Worker 10024;pid=10024
+[1501181229] Successfully launched command file worker with pid 10028
+[1501181723] wproc: Core Worker 10024: job 53 (pid=11057) timed out. Killing it
+[1501181724] wproc: CHECK job 53 from worker Core Worker 10024 timed out after 31.01s
+[1501181724] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501181724] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501181724] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501181724] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501181724] wproc: Core Worker 10024: job 53 (pid=11057): Dormant child reaped
+[1501181924] wproc: Core Worker 10023: job 76 (pid=11496) timed out. Killing it
+[1501181924] wproc: CHECK job 76 from worker Core Worker 10023 timed out after 30.00s
+[1501181924] wproc:   host=ip-10-0-1-165.us-west-2.compute.internal; service=(null);
+[1501181924] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501181924] Warning: Check of host 'ip-10-0-1-165.us-west-2.compute.internal' timed out after 30.00 seconds
+[1501181924] wproc: Core Worker 10023: job 76 (pid=11496): Dormant child reaped
+[1501182837] wproc: Core Worker 10026: job 182 (pid=13616) timed out. Killing it
+[1501182838] wproc: CHECK job 182 from worker Core Worker 10026 timed out after 31.01s
+[1501182838] wproc:   host=ip-10-0-7-149.us-west-2.compute.internal; service=(null);
+[1501182838] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501182838] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501182838] Warning: Check of host 'ip-10-0-7-149.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501182838] wproc: Core Worker 10026: job 182 (pid=13616): Dormant child reaped
+[1501183243] wproc: Core Worker 10017: job 230 (pid=14547) timed out. Killing it
+[1501183243] wproc: CHECK job 230 from worker Core Worker 10017 timed out after 30.00s
+[1501183243] wproc:   host=ip-10-0-1-165.us-west-2.compute.internal; service=(null);
+[1501183243] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501183243] Warning: Check of host 'ip-10-0-1-165.us-west-2.compute.internal' timed out after 30.00 seconds
+[1501183243] wproc: Core Worker 10017: job 230 (pid=14547): Dormant child reaped
+[1501184242] wproc: Core Worker 10021: job 347 (pid=16813) timed out. Killing it
+[1501184243] wproc: CHECK job 347 from worker Core Worker 10021 timed out after 31.01s
+[1501184243] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501184243] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501184243] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501184243] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501184243] wproc: Core Worker 10021: job 347 (pid=16813): Dormant child reaped
+[1501184497] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501184828] Auto-save of retention data completed successfully.
+[1501184842] wproc: Core Worker 10023: job 417 (pid=18230) timed out. Killing it
+[1501184842] wproc: CHECK job 417 from worker Core Worker 10023 timed out after 30.00s
+[1501184842] wproc:   host=ip-10-0-2-193.us-west-2.compute.internal; service=(null);
+[1501184842] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501184842] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501184842] Warning: Check of host 'ip-10-0-2-193.us-west-2.compute.internal' timed out after 30.00 seconds
+[1501184842] wproc: Core Worker 10023: job 417 (pid=18230): Dormant child reaped
+[1501185523] wproc: Core Worker 10026: job 495 (pid=19748) timed out. Killing it
+[1501185523] wproc: CHECK job 495 from worker Core Worker 10026 timed out after 30.01s
+[1501185523] wproc:   host=ip-10-0-1-165.us-west-2.compute.internal; service=(null);
+[1501185523] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501185523] Warning: Check of host 'ip-10-0-1-165.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501185523] wproc: Core Worker 10026: job 495 (pid=19748): Dormant child reaped
+[1501185763] wproc: Core Worker 10027: job 523 (pid=20310) timed out. Killing it
+[1501185763] wproc: CHECK job 523 from worker Core Worker 10027 timed out after 30.01s
+[1501185763] wproc:   host=ip-10-0-1-165.us-west-2.compute.internal; service=(null);
+[1501185763] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501185763] Warning: Check of host 'ip-10-0-1-165.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501185763] wproc: Core Worker 10027: job 523 (pid=20310): Dormant child reaped
+[1501186795] wproc: Core Worker 10022: job 643 (pid=22659) timed out. Killing it
+[1501186796] wproc: CHECK job 643 from worker Core Worker 10022 timed out after 31.00s
+[1501186796] wproc:   host=ip-10-0-5-128.us-west-2.compute.internal; service=(null);
+[1501186796] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501186796] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501186796] Warning: Check of host 'ip-10-0-5-128.us-west-2.compute.internal' timed out after 31.00 seconds
+[1501186796] wproc: Core Worker 10022: job 643 (pid=22659): Dormant child reaped
+[1501187683] wproc: Core Worker 10017: job 747 (pid=24679) timed out. Killing it
+[1501187684] wproc: CHECK job 747 from worker Core Worker 10017 timed out after 31.01s
+[1501187684] wproc:   host=ip-10-0-1-165.us-west-2.compute.internal; service=(null);
+[1501187684] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501187684] Warning: Check of host 'ip-10-0-1-165.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501187684] wproc: Core Worker 10017: job 747 (pid=24679): Dormant child reaped
+[1501188396] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501188426] wproc: Core Worker 10022: job 834 (pid=26416) timed out. Killing it
+[1501188427] wproc: NOTIFY job 834 from worker Core Worker 10022 timed out after 31.01s
+[1501188427] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501188427] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501188427] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1501188427] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Thu, 27 Jul 2017 20:46:37 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1501188427] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1501188427] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1501188427] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1501188427] wproc:   stdout line 06: 250-PIPELINING
+[1501188427] wproc:   stdout line 07: 250-EXPN
+[1501188427] wproc:   stdout line 08: 250-VERB
+[1501188427] wproc:   stdout line 09: 250-8BITMIME
+[1501188427] wproc:   stdout line 10: 250-SIZE
+[1501188427] wproc:   stdout line 11: 250-DSN
+[1501188427] wproc:   stdout line 12: 250-ETRN
+[1501188427] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1501188427] wproc:   stdout line 14: 250-DELIVERBY
+[1501188427] wproc:   stdout line 15: 250 HELP
+[1501188427] wproc:   stdout line 16: >>> VERB
+[1501188427] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1501188427] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=345 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1501188427] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1501188427] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1501188427] wproc:   stdout line 21: >>> DATA
+[1501188427] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1501188427] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1501188427] wproc:   stdout line 24: >>> .
+[1501188427] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Thu Jul 27 20:46:36 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1501188427] wproc: Core Worker 10022: job 834 (pid=26416): Dormant child reaped
+[1501188428] Auto-save of retention data completed successfully.
+[1501190240] wproc: Core Worker 10019: job 1046 (pid=30581) timed out. Killing it
+[1501190240] wproc: CHECK job 1046 from worker Core Worker 10019 timed out after 30.01s
+[1501190240] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501190240] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501190240] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501190240] wproc: Core Worker 10019: job 1046 (pid=30581): Dormant child reaped
+[1501190887] wproc: Core Worker 10017: job 1121 (pid=32053) timed out. Killing it
+[1501190887] wproc: CHECK job 1121 from worker Core Worker 10017 timed out after 30.01s
+[1501190887] wproc:   host=ip-10-0-3-94.us-west-2.compute.internal; service=(null);
+[1501190887] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501190887] Warning: Check of host 'ip-10-0-3-94.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501190887] wproc: Core Worker 10017: job 1121 (pid=32053): Dormant child reaped
+[1501190919] wproc: Core Worker 10024: job 1123 (pid=32106) timed out. Killing it
+[1501190919] wproc: CHECK job 1123 from worker Core Worker 10024 timed out after 30.01s
+[1501190919] wproc:   host=ip-10-0-0-65.us-west-2.compute.internal; service=(null);
+[1501190919] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501190919] Warning: Check of host 'ip-10-0-0-65.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501190919] wproc: Core Worker 10024: job 1123 (pid=32106): Dormant child reaped
+[1501191996] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501192026] wproc: Core Worker 10026: job 1253 (pid=2270) timed out. Killing it
+[1501192027] wproc: NOTIFY job 1253 from worker Core Worker 10026 timed out after 31.01s
+[1501192027] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501192027] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501192027] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1501192027] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Thu, 27 Jul 2017 21:46:37 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1501192027] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1501192027] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1501192027] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1501192027] wproc:   stdout line 06: 250-PIPELINING
+[1501192027] wproc:   stdout line 07: 250-EXPN
+[1501192027] wproc:   stdout line 08: 250-VERB
+[1501192027] wproc:   stdout line 09: 250-8BITMIME
+[1501192027] wproc:   stdout line 10: 250-SIZE
+[1501192027] wproc:   stdout line 11: 250-DSN
+[1501192027] wproc:   stdout line 12: 250-ETRN
+[1501192027] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1501192027] wproc:   stdout line 14: 250-DELIVERBY
+[1501192027] wproc:   stdout line 15: 250 HELP
+[1501192027] wproc:   stdout line 16: >>> VERB
+[1501192027] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1501192027] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=345 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1501192027] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1501192027] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1501192027] wproc:   stdout line 21: >>> DATA
+[1501192027] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1501192027] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1501192027] wproc:   stdout line 24: >>> .
+[1501192027] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Thu Jul 27 21:46:36 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1501192027] wproc: Core Worker 10026: job 1253 (pid=2270): Dormant child reaped
+[1501192028] Auto-save of retention data completed successfully.
+[1501192399] wproc: Core Worker 10015: job 1297 (pid=3115) timed out. Killing it
+[1501192399] wproc: CHECK job 1297 from worker Core Worker 10015 timed out after 30.00s
+[1501192399] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501192399] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501192399] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 30.00 seconds
+[1501192399] wproc: Core Worker 10015: job 1297 (pid=3115): Dormant child reaped
+[1501192519] wproc: Core Worker 10017: job 1311 (pid=3381) timed out. Killing it
+[1501192520] wproc: CHECK job 1311 from worker Core Worker 10017 timed out after 31.01s
+[1501192520] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501192520] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501192520] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501192520] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501192520] wproc: Core Worker 10017: job 1311 (pid=3381): Dormant child reaped
+[1501193239] wproc: Core Worker 10020: job 1395 (pid=5039) timed out. Killing it
+[1501193240] wproc: CHECK job 1395 from worker Core Worker 10020 timed out after 31.01s
+[1501193240] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501193240] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501193240] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501193240] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501193240] wproc: Core Worker 10020: job 1395 (pid=5039): Dormant child reaped
+[1501194368] wproc: Core Worker 10018: job 1526 (pid=7808) timed out. Killing it
+[1501194368] wproc: CHECK job 1526 from worker Core Worker 10018 timed out after 30.01s
+[1501194368] wproc:   host=ip-10-0-5-128.us-west-2.compute.internal; service=(null);
+[1501194368] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501194368] Warning: Check of host 'ip-10-0-5-128.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501194368] wproc: Core Worker 10018: job 1526 (pid=7808): Dormant child reaped
+[1501195596] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501195626] wproc: Core Worker 10024: job 1672 (pid=10885) timed out. Killing it
+[1501195627] wproc: NOTIFY job 1672 from worker Core Worker 10024 timed out after 31.01s
+[1501195627] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501195627] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501195627] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1501195627] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Thu, 27 Jul 2017 22:46:36 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1501195627] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1501195627] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1501195627] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1501195627] wproc:   stdout line 06: 250-PIPELINING
+[1501195627] wproc:   stdout line 07: 250-EXPN
+[1501195627] wproc:   stdout line 08: 250-VERB
+[1501195627] wproc:   stdout line 09: 250-8BITMIME
+[1501195627] wproc:   stdout line 10: 250-SIZE
+[1501195627] wproc:   stdout line 11: 250-DSN
+[1501195627] wproc:   stdout line 12: 250-ETRN
+[1501195627] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1501195627] wproc:   stdout line 14: 250-DELIVERBY
+[1501195627] wproc:   stdout line 15: 250 HELP
+[1501195627] wproc:   stdout line 16: >>> VERB
+[1501195627] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1501195627] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=345 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1501195627] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1501195627] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1501195627] wproc:   stdout line 21: >>> DATA
+[1501195627] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1501195627] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1501195627] wproc:   stdout line 24: >>> .
+[1501195627] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Thu Jul 27 22:46:36 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1501195627] wproc: Core Worker 10024: job 1672 (pid=10885): Dormant child reaped
+[1501195628] Auto-save of retention data completed successfully.
+[1501198517] wproc: Core Worker 10022: job 2009 (pid=17599) timed out. Killing it
+[1501198517] wproc: CHECK job 2009 from worker Core Worker 10022 timed out after 30.01s
+[1501198517] wproc:   host=ip-10-0-0-235.us-west-2.compute.internal; service=(null);
+[1501198517] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501198517] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501198517] Warning: Check of host 'ip-10-0-0-235.us-west-2.compute.internal' timed out after 30.01 seconds
+[1501198517] wproc: Core Worker 10022: job 2009 (pid=17599): Dormant child reaped
+[1501198997] wproc: Core Worker 10018: job 2065 (pid=18745) timed out. Killing it
+[1501198998] wproc: CHECK job 2065 from worker Core Worker 10018 timed out after 31.01s
+[1501198998] wproc:   host=ip-10-0-2-193.us-west-2.compute.internal; service=(null);
+[1501198998] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501198998] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1501198998] Warning: Check of host 'ip-10-0-2-193.us-west-2.compute.internal' timed out after 31.01 seconds
+[1501198998] wproc: Core Worker 10018: job 2065 (pid=18745): Dormant child reaped
+[1501199228] Auto-save of retention data completed successfully.
+[1501199495] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1501199525] wproc: Core Worker 10019: job 2127 (pid=19946) timed out. Killing it
+[1501199526] wproc: NOTIFY job 2127 from worker Core Worker 10019 timed out after 31.01s
+[1501199526] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1501199526] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1501199526] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1501199526] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Thu, 27 Jul 2017 23:51:35 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1501199526] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1501199526] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1501199526] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1501199526] wproc:   stdout line 06: 250-PIPELINING
+[1501199526] wproc:   stdout line 07: 250-EXPN
+[1501199526] wproc:   stdout line 08: 250-VERB
+[1501199526] wproc:   stdout line 09: 250-8BITMIME
+[1501199526] wproc:   stdout line 10: 250-SIZE
+[1501199526] wproc:   stdout line 11: 250-DSN
+[1501199526] wproc:   stdout line 12: 250-ETRN
+[1501199526] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1501199526] wproc:   stdout line 14: 250-DELIVERBY
+[1501199526] wproc:   stdout line 15: 250 HELP
+[1501199526] wproc:   stdout line 16: >>> VERB
+[1501199526] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1501199526] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=345 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1501199526] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1501199526] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1501199526] wproc:   stdout line 21: >>> DATA
+[1501199526] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1501199526] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1501199526] wproc:   stdout line 24: >>> .
+[1501199526] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Thu Jul 27 23:51:35 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1501199526] wproc: Core Worker 10019: job 2127 (pid=19946): Dormant child reaped

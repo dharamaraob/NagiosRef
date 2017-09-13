@@ -1,0 +1,932 @@
+[1502236800] LOG ROTATION: DAILY
+[1502236800] LOG VERSION: 2.0
+[1502236800] CURRENT HOST STATE: ip-10-0-0-123.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-173.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-235.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-254.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-63.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-65.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-0-85.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-102.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-11.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-136.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-16.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-165.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-47.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-69.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-1-89.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-2-167.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-2-193.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-2-46.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-2-5.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-2-86.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-196.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.83 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-26.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-44.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-54.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-56.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-3-94.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-4-98.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-5-128.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-5-3.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-7-103.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT HOST STATE: ip-10-0-7-149.us-west-2.compute.internal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1502236800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.02 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.07, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-123.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 80 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-173.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 81 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.06, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-235.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-254.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.08, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-63.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.09, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-65.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 83 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.04, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-0-85.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.09, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-102.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-11.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 76 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-136.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.07, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-16.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 79 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-165.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.09, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-47.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 80 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.10, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-69.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 76 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-1-89.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 79 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.08, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-167.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 85 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-193.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.06, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-46.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 79 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.08, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-5.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 80 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-2-86.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.06, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.56 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-196.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.03, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-26.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 80 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.08, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-44.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.10, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-54.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 81 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.06, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-56.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 81 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.08, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-3-94.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-4-98.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-4-98.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-4-98.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-4-98.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-4-98.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 81 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;Check load;OK;HARD;1;OK - load average: 0.05, 0.05, 0.00
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-128.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 84 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-3.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-3.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-3.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-3.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-5-3.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 85 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-103.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-103.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-103.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-103.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-103.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Check SSH;OK;HARD;1;SSH OK - OpenSSH_7.3 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Check Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Local Disk;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Mesos Activated Slaves;OK;HARD;1;OK: Mesos cluster 'dcosqa' activated_slaves=23
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Total CPUS;OK;HARD;1;OK: Mesos metrics: allocator/mesos/resources/cpus/total=92
+[1502236800] CURRENT SERVICE STATE: ip-10-0-7-149.us-west-2.compute.internal;Total Process;OK;HARD;1;PROCS OK: 79 processes with STATE = RSZDT
+[1502236800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.09, 0.06, 0.00
+[1502236800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1502236800] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.000 second response time
+[1502236800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1502236800] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 96676 MB (97% inode=98%):
+[1502236800] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1502236800] CURRENT SERVICE STATE: localhost;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502236800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 78 processes with STATE = RSZDT
+[1502237168] Auto-save of retention data completed successfully.
+[1502240656] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502240656] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502240686] wproc: Core Worker 17268: job 113322 (pid=14805) timed out. Killing it
+[1502240687] wproc: NOTIFY job 113322 from worker Core Worker 17268 timed out after 31.01s
+[1502240687] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502240687] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502240687] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502240687] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 01:04:17 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502240687] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502240687] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502240687] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502240687] wproc:   stdout line 06: 250-PIPELINING
+[1502240687] wproc:   stdout line 07: 250-EXPN
+[1502240687] wproc:   stdout line 08: 250-VERB
+[1502240687] wproc:   stdout line 09: 250-8BITMIME
+[1502240687] wproc:   stdout line 10: 250-SIZE
+[1502240687] wproc:   stdout line 11: 250-DSN
+[1502240687] wproc:   stdout line 12: 250-ETRN
+[1502240687] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502240687] wproc:   stdout line 14: 250-DELIVERBY
+[1502240687] wproc:   stdout line 15: 250 HELP
+[1502240687] wproc:   stdout line 16: >>> VERB
+[1502240687] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502240687] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502240687] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502240687] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502240687] wproc:   stdout line 21: >>> DATA
+[1502240687] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502240687] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502240687] wproc:   stdout line 24: >>> .
+[1502240687] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 01:04:16 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502240687] wproc: Core Worker 17268: job 113322 (pid=14805): Dormant child reaped
+[1502240768] Auto-save of retention data completed successfully.
+[1502244368] Auto-save of retention data completed successfully.
+[1502244555] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502244555] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502244585] wproc: Core Worker 17268: job 113943 (pid=25919) timed out. Killing it
+[1502244586] wproc: NOTIFY job 113943 from worker Core Worker 17268 timed out after 31.01s
+[1502244586] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502244586] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502244586] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502244586] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 02:09:16 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502244586] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502244586] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502244586] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502244586] wproc:   stdout line 06: 250-PIPELINING
+[1502244586] wproc:   stdout line 07: 250-EXPN
+[1502244586] wproc:   stdout line 08: 250-VERB
+[1502244586] wproc:   stdout line 09: 250-8BITMIME
+[1502244586] wproc:   stdout line 10: 250-SIZE
+[1502244586] wproc:   stdout line 11: 250-DSN
+[1502244586] wproc:   stdout line 12: 250-ETRN
+[1502244586] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502244586] wproc:   stdout line 14: 250-DELIVERBY
+[1502244586] wproc:   stdout line 15: 250 HELP
+[1502244586] wproc:   stdout line 16: >>> VERB
+[1502244586] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502244586] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502244586] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502244586] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502244586] wproc:   stdout line 21: >>> DATA
+[1502244586] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502244586] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502244586] wproc:   stdout line 24: >>> .
+[1502244586] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 02:09:15 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502244586] wproc: Core Worker 17268: job 113943 (pid=25919): Dormant child reaped
+[1502247968] Auto-save of retention data completed successfully.
+[1502248155] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502248155] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502251568] Auto-save of retention data completed successfully.
+[1502252054] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502252054] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502255168] Auto-save of retention data completed successfully.
+[1502255654] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502255654] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502255684] wproc: Core Worker 17266: job 115706 (pid=24959) timed out. Killing it
+[1502255685] wproc: NOTIFY job 115706 from worker Core Worker 17266 timed out after 31.01s
+[1502255685] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502255685] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502255685] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502255685] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 05:14:14 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502255685] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502255685] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502255685] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502255685] wproc:   stdout line 06: 250-PIPELINING
+[1502255685] wproc:   stdout line 07: 250-EXPN
+[1502255685] wproc:   stdout line 08: 250-VERB
+[1502255685] wproc:   stdout line 09: 250-8BITMIME
+[1502255685] wproc:   stdout line 10: 250-SIZE
+[1502255685] wproc:   stdout line 11: 250-DSN
+[1502255685] wproc:   stdout line 12: 250-ETRN
+[1502255685] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502255685] wproc:   stdout line 14: 250-DELIVERBY
+[1502255685] wproc:   stdout line 15: 250 HELP
+[1502255685] wproc:   stdout line 16: >>> VERB
+[1502255685] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502255685] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502255685] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502255685] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502255685] wproc:   stdout line 21: >>> DATA
+[1502255685] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502255685] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502255685] wproc:   stdout line 24: >>> .
+[1502255685] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 05:14:14 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502255685] wproc: Core Worker 17266: job 115706 (pid=24959): Dormant child reaped
+[1502258768] Auto-save of retention data completed successfully.
+[1502259254] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502259254] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502259284] wproc: Core Worker 17259: job 116279 (pid=2747) timed out. Killing it
+[1502259285] wproc: NOTIFY job 116279 from worker Core Worker 17259 timed out after 31.01s
+[1502259285] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502259285] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502259285] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502259285] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 06:14:15 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502259285] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502259285] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502259285] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502259285] wproc:   stdout line 06: 250-PIPELINING
+[1502259285] wproc:   stdout line 07: 250-EXPN
+[1502259285] wproc:   stdout line 08: 250-VERB
+[1502259285] wproc:   stdout line 09: 250-8BITMIME
+[1502259285] wproc:   stdout line 10: 250-SIZE
+[1502259285] wproc:   stdout line 11: 250-DSN
+[1502259285] wproc:   stdout line 12: 250-ETRN
+[1502259285] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502259285] wproc:   stdout line 14: 250-DELIVERBY
+[1502259285] wproc:   stdout line 15: 250 HELP
+[1502259285] wproc:   stdout line 16: >>> VERB
+[1502259285] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502259285] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502259285] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502259285] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502259285] wproc:   stdout line 21: >>> DATA
+[1502259285] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502259285] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502259285] wproc:   stdout line 24: >>> .
+[1502259285] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 06:14:14 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502259285] wproc: Core Worker 17259: job 116279 (pid=2747): Dormant child reaped
+[1502262368] Auto-save of retention data completed successfully.
+[1502263153] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502263153] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502263183] wproc: Core Worker 17266: job 116900 (pid=13985) timed out. Killing it
+[1502263184] wproc: NOTIFY job 116900 from worker Core Worker 17266 timed out after 31.01s
+[1502263184] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502263184] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502263184] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502263184] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 07:19:14 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502263184] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502263184] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502263184] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502263184] wproc:   stdout line 06: 250-PIPELINING
+[1502263184] wproc:   stdout line 07: 250-EXPN
+[1502263184] wproc:   stdout line 08: 250-VERB
+[1502263184] wproc:   stdout line 09: 250-8BITMIME
+[1502263184] wproc:   stdout line 10: 250-SIZE
+[1502263184] wproc:   stdout line 11: 250-DSN
+[1502263184] wproc:   stdout line 12: 250-ETRN
+[1502263184] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502263184] wproc:   stdout line 14: 250-DELIVERBY
+[1502263184] wproc:   stdout line 15: 250 HELP
+[1502263184] wproc:   stdout line 16: >>> VERB
+[1502263184] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502263184] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502263184] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502263184] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502263184] wproc:   stdout line 21: >>> DATA
+[1502263184] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502263184] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502263184] wproc:   stdout line 24: >>> .
+[1502263184] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 07:19:13 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502263184] wproc: Core Worker 17266: job 116900 (pid=13985): Dormant child reaped
+[1502265968] Auto-save of retention data completed successfully.
+[1502266753] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502266753] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502266783] wproc: Core Worker 17259: job 117473 (pid=24209) timed out. Killing it
+[1502266784] wproc: NOTIFY job 117473 from worker Core Worker 17259 timed out after 31.01s
+[1502266784] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502266784] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502266784] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502266784] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 08:19:13 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502266784] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502266784] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502266784] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502266784] wproc:   stdout line 06: 250-PIPELINING
+[1502266784] wproc:   stdout line 07: 250-EXPN
+[1502266784] wproc:   stdout line 08: 250-VERB
+[1502266784] wproc:   stdout line 09: 250-8BITMIME
+[1502266784] wproc:   stdout line 10: 250-SIZE
+[1502266784] wproc:   stdout line 11: 250-DSN
+[1502266784] wproc:   stdout line 12: 250-ETRN
+[1502266784] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502266784] wproc:   stdout line 14: 250-DELIVERBY
+[1502266784] wproc:   stdout line 15: 250 HELP
+[1502266784] wproc:   stdout line 16: >>> VERB
+[1502266784] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502266784] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502266784] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502266784] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502266784] wproc:   stdout line 21: >>> DATA
+[1502266784] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502266784] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502266784] wproc:   stdout line 24: >>> .
+[1502266784] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 08:19:13 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502266784] wproc: Core Worker 17259: job 117473 (pid=24209): Dormant child reaped
+[1502269568] Auto-save of retention data completed successfully.
+[1502270652] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502270652] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502270682] wproc: Core Worker 17266: job 118091 (pid=3107) timed out. Killing it
+[1502270683] wproc: NOTIFY job 118091 from worker Core Worker 17266 timed out after 31.01s
+[1502270683] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502270683] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502270683] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502270683] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 09:24:13 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502270683] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502270683] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502270683] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502270683] wproc:   stdout line 06: 250-PIPELINING
+[1502270683] wproc:   stdout line 07: 250-EXPN
+[1502270683] wproc:   stdout line 08: 250-VERB
+[1502270683] wproc:   stdout line 09: 250-8BITMIME
+[1502270683] wproc:   stdout line 10: 250-SIZE
+[1502270683] wproc:   stdout line 11: 250-DSN
+[1502270683] wproc:   stdout line 12: 250-ETRN
+[1502270683] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502270683] wproc:   stdout line 14: 250-DELIVERBY
+[1502270683] wproc:   stdout line 15: 250 HELP
+[1502270683] wproc:   stdout line 16: >>> VERB
+[1502270683] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502270683] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502270683] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502270683] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502270683] wproc:   stdout line 21: >>> DATA
+[1502270683] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502270683] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502270683] wproc:   stdout line 24: >>> .
+[1502270683] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 09:24:12 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502270683] wproc: Core Worker 17266: job 118091 (pid=3107): Dormant child reaped
+[1502273168] Auto-save of retention data completed successfully.
+[1502274252] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502274252] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502274282] wproc: Core Worker 17264: job 118664 (pid=13325) timed out. Killing it
+[1502274283] wproc: NOTIFY job 118664 from worker Core Worker 17264 timed out after 31.01s
+[1502274283] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502274283] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502274283] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502274283] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 10:24:12 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502274283] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502274283] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502274283] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502274283] wproc:   stdout line 06: 250-PIPELINING
+[1502274283] wproc:   stdout line 07: 250-EXPN
+[1502274283] wproc:   stdout line 08: 250-VERB
+[1502274283] wproc:   stdout line 09: 250-8BITMIME
+[1502274283] wproc:   stdout line 10: 250-SIZE
+[1502274283] wproc:   stdout line 11: 250-DSN
+[1502274283] wproc:   stdout line 12: 250-ETRN
+[1502274283] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502274283] wproc:   stdout line 14: 250-DELIVERBY
+[1502274283] wproc:   stdout line 15: 250 HELP
+[1502274283] wproc:   stdout line 16: >>> VERB
+[1502274283] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502274283] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502274283] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502274283] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502274283] wproc:   stdout line 21: >>> DATA
+[1502274283] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502274283] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502274283] wproc:   stdout line 24: >>> .
+[1502274283] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 10:24:12 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502274283] wproc: Core Worker 17264: job 118664 (pid=13325): Dormant child reaped
+[1502276390] SERVICE ALERT: ip-10-0-3-56.us-west-2.compute.internal;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 191.53 ms
+[1502276510] SERVICE ALERT: ip-10-0-3-56.us-west-2.compute.internal;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1502276768] Auto-save of retention data completed successfully.
+[1502277599] SERVICE ALERT: ip-10-0-1-136.us-west-2.compute.internal;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 169.47 ms
+[1502277719] SERVICE ALERT: ip-10-0-1-136.us-west-2.compute.internal;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1502278151] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502278151] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502278181] wproc: Core Worker 17261: job 119285 (pid=24374) timed out. Killing it
+[1502278182] wproc: NOTIFY job 119285 from worker Core Worker 17261 timed out after 31.01s
+[1502278182] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502278182] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502278182] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502278182] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 11:29:12 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502278182] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502278182] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502278182] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502278182] wproc:   stdout line 06: 250-PIPELINING
+[1502278182] wproc:   stdout line 07: 250-EXPN
+[1502278182] wproc:   stdout line 08: 250-VERB
+[1502278182] wproc:   stdout line 09: 250-8BITMIME
+[1502278182] wproc:   stdout line 10: 250-SIZE
+[1502278182] wproc:   stdout line 11: 250-DSN
+[1502278182] wproc:   stdout line 12: 250-ETRN
+[1502278182] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502278182] wproc:   stdout line 14: 250-DELIVERBY
+[1502278182] wproc:   stdout line 15: 250 HELP
+[1502278182] wproc:   stdout line 16: >>> VERB
+[1502278182] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502278182] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502278182] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502278182] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502278182] wproc:   stdout line 21: >>> DATA
+[1502278182] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502278182] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502278182] wproc:   stdout line 24: >>> .
+[1502278182] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 11:29:11 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502278182] wproc: Core Worker 17261: job 119285 (pid=24374): Dormant child reaped
+[1502280368] Auto-save of retention data completed successfully.
+[1502282050] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502282050] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502282080] wproc: Core Worker 17263: job 119904 (pid=2975) timed out. Killing it
+[1502282081] wproc: NOTIFY job 119904 from worker Core Worker 17263 timed out after 31.01s
+[1502282081] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502282081] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502282081] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502282081] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 12:34:11 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502282081] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502282081] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502282081] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502282081] wproc:   stdout line 06: 250-PIPELINING
+[1502282081] wproc:   stdout line 07: 250-EXPN
+[1502282081] wproc:   stdout line 08: 250-VERB
+[1502282081] wproc:   stdout line 09: 250-8BITMIME
+[1502282081] wproc:   stdout line 10: 250-SIZE
+[1502282081] wproc:   stdout line 11: 250-DSN
+[1502282081] wproc:   stdout line 12: 250-ETRN
+[1502282081] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502282081] wproc:   stdout line 14: 250-DELIVERBY
+[1502282081] wproc:   stdout line 15: 250 HELP
+[1502282081] wproc:   stdout line 16: >>> VERB
+[1502282081] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502282081] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502282081] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502282081] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502282081] wproc:   stdout line 21: >>> DATA
+[1502282081] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502282081] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502282081] wproc:   stdout line 24: >>> .
+[1502282081] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 12:34:10 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502282081] wproc: Core Worker 17263: job 119904 (pid=2975): Dormant child reaped
+[1502283968] Auto-save of retention data completed successfully.
+[1502285650] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502285650] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502285680] wproc: Core Worker 17271: job 120476 (pid=13276) timed out. Killing it
+[1502285681] wproc: NOTIFY job 120476 from worker Core Worker 17271 timed out after 31.02s
+[1502285681] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502285681] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502285681] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502285681] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 13:34:10 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502285681] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502285681] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502285681] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502285681] wproc:   stdout line 06: 250-PIPELINING
+[1502285681] wproc:   stdout line 07: 250-EXPN
+[1502285681] wproc:   stdout line 08: 250-VERB
+[1502285681] wproc:   stdout line 09: 250-8BITMIME
+[1502285681] wproc:   stdout line 10: 250-SIZE
+[1502285681] wproc:   stdout line 11: 250-DSN
+[1502285681] wproc:   stdout line 12: 250-ETRN
+[1502285681] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502285681] wproc:   stdout line 14: 250-DELIVERBY
+[1502285681] wproc:   stdout line 15: 250 HELP
+[1502285681] wproc:   stdout line 16: >>> VERB
+[1502285681] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502285681] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502285681] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502285681] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502285681] wproc:   stdout line 21: >>> DATA
+[1502285681] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502285681] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502285681] wproc:   stdout line 24: >>> .
+[1502285681] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 13:34:10 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502285681] wproc: Core Worker 17271: job 120476 (pid=13276): Dormant child reaped
+[1502287568] Auto-save of retention data completed successfully.
+[1502289549] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502289549] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502289579] wproc: Core Worker 17263: job 121098 (pid=24405) timed out. Killing it
+[1502289580] wproc: NOTIFY job 121098 from worker Core Worker 17263 timed out after 31.01s
+[1502289580] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502289580] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502289580] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502289580] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 14:39:10 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502289580] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502289580] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502289580] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502289580] wproc:   stdout line 06: 250-PIPELINING
+[1502289580] wproc:   stdout line 07: 250-EXPN
+[1502289580] wproc:   stdout line 08: 250-VERB
+[1502289580] wproc:   stdout line 09: 250-8BITMIME
+[1502289580] wproc:   stdout line 10: 250-SIZE
+[1502289580] wproc:   stdout line 11: 250-DSN
+[1502289580] wproc:   stdout line 12: 250-ETRN
+[1502289580] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502289580] wproc:   stdout line 14: 250-DELIVERBY
+[1502289580] wproc:   stdout line 15: 250 HELP
+[1502289580] wproc:   stdout line 16: >>> VERB
+[1502289580] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502289580] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502289580] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502289580] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502289580] wproc:   stdout line 21: >>> DATA
+[1502289580] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502289580] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502289580] wproc:   stdout line 24: >>> .
+[1502289580] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 14:39:09 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502289580] wproc: Core Worker 17263: job 121098 (pid=24405): Dormant child reaped
+[1502291168] Auto-save of retention data completed successfully.
+[1502293448] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502293448] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502293478] wproc: Core Worker 17259: job 121717 (pid=3042) timed out. Killing it
+[1502293479] wproc: NOTIFY job 121717 from worker Core Worker 17259 timed out after 31.01s
+[1502293479] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502293479] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502293479] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502293479] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 15:44:09 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502293479] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502293479] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502293479] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502293479] wproc:   stdout line 06: 250-PIPELINING
+[1502293479] wproc:   stdout line 07: 250-EXPN
+[1502293479] wproc:   stdout line 08: 250-VERB
+[1502293479] wproc:   stdout line 09: 250-8BITMIME
+[1502293479] wproc:   stdout line 10: 250-SIZE
+[1502293479] wproc:   stdout line 11: 250-DSN
+[1502293479] wproc:   stdout line 12: 250-ETRN
+[1502293479] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502293479] wproc:   stdout line 14: 250-DELIVERBY
+[1502293479] wproc:   stdout line 15: 250 HELP
+[1502293479] wproc:   stdout line 16: >>> VERB
+[1502293479] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502293479] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502293479] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502293479] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502293479] wproc:   stdout line 21: >>> DATA
+[1502293479] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502293479] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502293479] wproc:   stdout line 24: >>> .
+[1502293479] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 15:44:08 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502293479] wproc: Core Worker 17259: job 121717 (pid=3042): Dormant child reaped
+[1502294768] Auto-save of retention data completed successfully.
+[1502297347] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502297347] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502297377] wproc: Core Worker 17271: job 122337 (pid=14089) timed out. Killing it
+[1502297378] wproc: NOTIFY job 122337 from worker Core Worker 17271 timed out after 31.01s
+[1502297378] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502297378] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502297378] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502297378] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 16:49:08 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502297378] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502297378] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502297378] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502297378] wproc:   stdout line 06: 250-PIPELINING
+[1502297378] wproc:   stdout line 07: 250-EXPN
+[1502297378] wproc:   stdout line 08: 250-VERB
+[1502297378] wproc:   stdout line 09: 250-8BITMIME
+[1502297378] wproc:   stdout line 10: 250-SIZE
+[1502297378] wproc:   stdout line 11: 250-DSN
+[1502297378] wproc:   stdout line 12: 250-ETRN
+[1502297378] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502297378] wproc:   stdout line 14: 250-DELIVERBY
+[1502297378] wproc:   stdout line 15: 250 HELP
+[1502297378] wproc:   stdout line 16: >>> VERB
+[1502297378] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502297378] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502297378] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502297378] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502297378] wproc:   stdout line 21: >>> DATA
+[1502297378] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502297378] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502297378] wproc:   stdout line 24: >>> .
+[1502297378] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 16:49:07 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502297378] wproc: Core Worker 17271: job 122337 (pid=14089): Dormant child reaped
+[1502298368] Auto-save of retention data completed successfully.
+[1502300947] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502300947] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502300977] wproc: Core Worker 17259: job 122910 (pid=24287) timed out. Killing it
+[1502300978] wproc: NOTIFY job 122910 from worker Core Worker 17259 timed out after 31.01s
+[1502300978] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502300978] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502300978] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502300978] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 17:49:08 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502300978] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502300978] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502300978] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502300978] wproc:   stdout line 06: 250-PIPELINING
+[1502300978] wproc:   stdout line 07: 250-EXPN
+[1502300978] wproc:   stdout line 08: 250-VERB
+[1502300978] wproc:   stdout line 09: 250-8BITMIME
+[1502300978] wproc:   stdout line 10: 250-SIZE
+[1502300978] wproc:   stdout line 11: 250-DSN
+[1502300978] wproc:   stdout line 12: 250-ETRN
+[1502300978] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502300978] wproc:   stdout line 14: 250-DELIVERBY
+[1502300978] wproc:   stdout line 15: 250 HELP
+[1502300978] wproc:   stdout line 16: >>> VERB
+[1502300978] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502300978] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502300978] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502300978] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502300978] wproc:   stdout line 21: >>> DATA
+[1502300978] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502300978] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502300978] wproc:   stdout line 24: >>> .
+[1502300978] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 17:49:07 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502300978] wproc: Core Worker 17259: job 122910 (pid=24287): Dormant child reaped
+[1502301968] Auto-save of retention data completed successfully.
+[1502304547] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502304547] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502304577] wproc: Core Worker 17263: job 123482 (pid=2168) timed out. Killing it
+[1502304578] wproc: NOTIFY job 123482 from worker Core Worker 17263 timed out after 31.01s
+[1502304578] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502304578] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502304578] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502304578] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 18:49:07 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502304578] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502304578] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502304578] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502304578] wproc:   stdout line 06: 250-PIPELINING
+[1502304578] wproc:   stdout line 07: 250-EXPN
+[1502304578] wproc:   stdout line 08: 250-VERB
+[1502304578] wproc:   stdout line 09: 250-8BITMIME
+[1502304578] wproc:   stdout line 10: 250-SIZE
+[1502304578] wproc:   stdout line 11: 250-DSN
+[1502304578] wproc:   stdout line 12: 250-ETRN
+[1502304578] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502304578] wproc:   stdout line 14: 250-DELIVERBY
+[1502304578] wproc:   stdout line 15: 250 HELP
+[1502304578] wproc:   stdout line 16: >>> VERB
+[1502304578] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502304578] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502304578] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502304578] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502304578] wproc:   stdout line 21: >>> DATA
+[1502304578] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502304578] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502304578] wproc:   stdout line 24: >>> .
+[1502304578] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 18:49:07 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502304578] wproc: Core Worker 17263: job 123482 (pid=2168): Dormant child reaped
+[1502305568] Auto-save of retention data completed successfully.
+[1502307425] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 131.51 ms
+[1502307545] SERVICE ALERT: ip-10-0-0-123.us-west-2.compute.internal;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1502308446] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502308446] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502308476] wproc: Core Worker 17270: job 124101 (pid=13203) timed out. Killing it
+[1502308477] wproc: NOTIFY job 124101 from worker Core Worker 17270 timed out after 31.01s
+[1502308477] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502308477] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502308477] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502308477] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 19:54:06 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502308477] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502308477] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502308477] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502308477] wproc:   stdout line 06: 250-PIPELINING
+[1502308477] wproc:   stdout line 07: 250-EXPN
+[1502308477] wproc:   stdout line 08: 250-VERB
+[1502308477] wproc:   stdout line 09: 250-8BITMIME
+[1502308477] wproc:   stdout line 10: 250-SIZE
+[1502308477] wproc:   stdout line 11: 250-DSN
+[1502308477] wproc:   stdout line 12: 250-ETRN
+[1502308477] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502308477] wproc:   stdout line 14: 250-DELIVERBY
+[1502308477] wproc:   stdout line 15: 250 HELP
+[1502308477] wproc:   stdout line 16: >>> VERB
+[1502308477] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502308477] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502308477] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502308477] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502308477] wproc:   stdout line 21: >>> DATA
+[1502308477] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502308477] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502308477] wproc:   stdout line 24: >>> .
+[1502308477] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 19:54:06 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502308477] wproc: Core Worker 17270: job 124101 (pid=13203): Dormant child reaped
+[1502309168] Auto-save of retention data completed successfully.
+[1502312046] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502312046] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502312076] wproc: Core Worker 17268: job 124674 (pid=23431) timed out. Killing it
+[1502312077] wproc: NOTIFY job 124674 from worker Core Worker 17268 timed out after 31.01s
+[1502312077] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502312077] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502312077] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502312077] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 20:54:06 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502312077] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502312077] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502312077] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502312077] wproc:   stdout line 06: 250-PIPELINING
+[1502312077] wproc:   stdout line 07: 250-EXPN
+[1502312077] wproc:   stdout line 08: 250-VERB
+[1502312077] wproc:   stdout line 09: 250-8BITMIME
+[1502312077] wproc:   stdout line 10: 250-SIZE
+[1502312077] wproc:   stdout line 11: 250-DSN
+[1502312077] wproc:   stdout line 12: 250-ETRN
+[1502312077] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502312077] wproc:   stdout line 14: 250-DELIVERBY
+[1502312077] wproc:   stdout line 15: 250 HELP
+[1502312077] wproc:   stdout line 16: >>> VERB
+[1502312077] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502312077] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502312077] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502312077] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502312077] wproc:   stdout line 21: >>> DATA
+[1502312077] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502312077] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502312077] wproc:   stdout line 24: >>> .
+[1502312077] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 20:54:06 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502312077] wproc: Core Worker 17268: job 124674 (pid=23431): Dormant child reaped
+[1502312768] Auto-save of retention data completed successfully.
+[1502315945] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502315945] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502315975] wproc: Core Worker 17262: job 125295 (pid=2072) timed out. Killing it
+[1502315976] wproc: NOTIFY job 125295 from worker Core Worker 17262 timed out after 31.01s
+[1502315976] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502315976] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502315976] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502315976] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 21:59:06 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502315976] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502315976] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502315976] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502315976] wproc:   stdout line 06: 250-PIPELINING
+[1502315976] wproc:   stdout line 07: 250-EXPN
+[1502315976] wproc:   stdout line 08: 250-VERB
+[1502315976] wproc:   stdout line 09: 250-8BITMIME
+[1502315976] wproc:   stdout line 10: 250-SIZE
+[1502315976] wproc:   stdout line 11: 250-DSN
+[1502315976] wproc:   stdout line 12: 250-ETRN
+[1502315976] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502315976] wproc:   stdout line 14: 250-DELIVERBY
+[1502315976] wproc:   stdout line 15: 250 HELP
+[1502315976] wproc:   stdout line 16: >>> VERB
+[1502315976] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502315976] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502315976] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502315976] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502315976] wproc:   stdout line 21: >>> DATA
+[1502315976] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502315976] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502315976] wproc:   stdout line 24: >>> .
+[1502315976] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 21:59:05 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502315976] wproc: Core Worker 17262: job 125295 (pid=2072): Dormant child reaped
+[1502316368] Auto-save of retention data completed successfully.
+[1502319545] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502319545] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502319575] wproc: Core Worker 17263: job 125867 (pid=12272) timed out. Killing it
+[1502319576] wproc: NOTIFY job 125867 from worker Core Worker 17263 timed out after 31.01s
+[1502319576] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502319576] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502319576] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502319576] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 22:59:06 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502319576] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502319576] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502319576] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502319576] wproc:   stdout line 06: 250-PIPELINING
+[1502319576] wproc:   stdout line 07: 250-EXPN
+[1502319576] wproc:   stdout line 08: 250-VERB
+[1502319576] wproc:   stdout line 09: 250-8BITMIME
+[1502319576] wproc:   stdout line 10: 250-SIZE
+[1502319576] wproc:   stdout line 11: 250-DSN
+[1502319576] wproc:   stdout line 12: 250-ETRN
+[1502319576] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502319576] wproc:   stdout line 14: 250-DELIVERBY
+[1502319576] wproc:   stdout line 15: 250 HELP
+[1502319576] wproc:   stdout line 16: >>> VERB
+[1502319576] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502319576] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502319576] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502319576] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502319576] wproc:   stdout line 21: >>> DATA
+[1502319576] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502319576] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502319576] wproc:   stdout line 24: >>> .
+[1502319576] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 22:59:05 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502319576] wproc: Core Worker 17263: job 125867 (pid=12272): Dormant child reaped
+[1502319968] Auto-save of retention data completed successfully.
+[1502323145] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502323145] SERVICE NOTIFICATION: Bala;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.
+[1502323175] wproc: Core Worker 17267: job 126439 (pid=22496) timed out. Killing it
+[1502323176] wproc: NOTIFY job 126439 from worker Core Worker 17267 timed out after 31.01s
+[1502323176] wproc:   host=localhost; service=Swap Usage; contact=nagiosadmin
+[1502323176] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1502323176] wproc:   stdout line 01: dharama.rao@hcl.com... Connecting to [127.0.0.1] via relay...
+[1502323176] wproc:   stdout line 02: 220 ip-10-0-5-161.us-west-2.compute.internal ESMTP Sendmail 8.15.2/8.15.2/Debian-3; Wed, 9 Aug 2017 23:59:05 GMT; (No UCE/UBE) logging access from: localhost(OK)-localhost [127.0.0.1]
+[1502323176] wproc:   stdout line 03: >>> EHLO ip-10-0-5-161.us-west-2.compute.internal
+[1502323176] wproc:   stdout line 04: 250-ip-10-0-5-161.us-west-2.compute.internal Hello localhost [127.0.0.1], pleased to meet you
+[1502323176] wproc:   stdout line 05: 250-ENHANCEDSTATUSCODES
+[1502323176] wproc:   stdout line 06: 250-PIPELINING
+[1502323176] wproc:   stdout line 07: 250-EXPN
+[1502323176] wproc:   stdout line 08: 250-VERB
+[1502323176] wproc:   stdout line 09: 250-8BITMIME
+[1502323176] wproc:   stdout line 10: 250-SIZE
+[1502323176] wproc:   stdout line 11: 250-DSN
+[1502323176] wproc:   stdout line 12: 250-ETRN
+[1502323176] wproc:   stdout line 13: 250-AUTH DIGEST-MD5 CRAM-MD5
+[1502323176] wproc:   stdout line 14: 250-DELIVERBY
+[1502323176] wproc:   stdout line 15: 250 HELP
+[1502323176] wproc:   stdout line 16: >>> VERB
+[1502323176] wproc:   stdout line 17: 250 2.0.0 Verbose mode
+[1502323176] wproc:   stdout line 18: >>> MAIL From:<nagios@ip-10-0-5-161.us-west-2.compute.internal> SIZE=344 AUTH=nagios@ip-10-0-5-161.us-west-2.compute.internal
+[1502323176] wproc:   stdout line 19: 250 2.1.0 <nagios@ip-10-0-5-161.us-west-2.compute.internal>... Sender ok
+[1502323176] wproc:   stdout line 20: >>> RCPT To:<dharama.rao@hcl.com>
+[1502323176] wproc:   stdout line 21: >>> DATA
+[1502323176] wproc:   stdout line 22: 250 2.1.5 <dharama.rao@hcl.com>... Recipient ok
+[1502323176] wproc:   stdout line 23: 354 Enter mail, end with "." on a line by itself
+[1502323176] wproc:   stdout line 24: >>> .
+[1502323176] Warning: Notifying contact 'nagiosadmin' of service 'Swap Usage' on host 'localhost' by command '/usr/bin/printf "%b" "Subject: PROBLEM Service Alert: localhost/Swap Usage is CRITICAL\n\n***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Swap Usage\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Wed Aug 9 23:59:05 UTC 2017\n\nAdditional Info:\n\nSWAP CRITICAL - 0% free (0 MB out of 0 MB) - Swap is either disabled, not present, or of zero size.\n" | /usr/sbin/sendmail -vt dharama.rao@hcl.com' timed out after 0.00 seconds
+[1502323176] wproc: Core Worker 17267: job 126439 (pid=22496): Dormant child reaped
